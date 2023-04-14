@@ -2,6 +2,8 @@
 
 FitTrack is a web application that allows users to track their fitness progress, set fitness goals, and connect with other fitness enthusiasts. The app is built using the Flask web framework and uses PostgreSQL as its database.
 
+[🔗Project](https://fittclub.netlify.app/)
+
 ## Features
 
 - User authentication and authorization
@@ -33,7 +35,6 @@ To install and run FitTrack on your local machine, follow these steps:
 
 The app should now be accessible at `http://localhost:5000`.
 
-[🔗Project](https://fittclub.netlify.app/)
 
 ## Contributing
 
