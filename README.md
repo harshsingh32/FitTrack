@@ -19,7 +19,7 @@ FitTrack is a web application that allows users to track their fitness progress,
 - SQLAlchemy ORM
 - WTForms for form validation
 - Bootstrap CSS framework
-- FontAwesome icon library
+- FontAwesome icon libr
 
 ## Installation
 
