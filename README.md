@@ -9,7 +9,7 @@ FitTrack is a application that allows users to track their fitness progress, set
 - User authentication and authorization
 - Fitness tracking, including workouts, exercises, and progress tracking
 - Goal setting and tracking
-- Social networking features, including following other users, commenting on posts, and liking posts
+- Social networking features, including following other users, commenting on posts, and liking post
 - User profile management, including profile picture updates and password changes
 
 ## Technologies Used
